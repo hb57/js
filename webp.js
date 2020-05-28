@@ -12,6 +12,6 @@ function hasWebP() {
 }
 
 hasWebP().then( 
-      function(){ var webpok = true;  },  //webp enabled  
-      function(){ var webpok = false; }   //webp disabled
+      function(){ webpok = true;  },  //webp enabled  
+      function(){ webpok = false; }   //webp disabled
 );
