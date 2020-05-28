@@ -1,6 +1,7 @@
 function hasWebP() {
     /*
      * detecteaza WEBP capabilitate a browserului
+     * modificat !
     */
       var rv = $.Deferred();
       var img = new Image();
