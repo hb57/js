@@ -1,3 +1,4 @@
+webpok = 'zzz';
 function hasWebP() {
     /*
      * detecteaza WEBP capabilitate a browserului
